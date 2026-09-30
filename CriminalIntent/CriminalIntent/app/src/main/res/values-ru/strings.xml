@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Введите заголовок преступления</string>
+    <string name="crime_title_label">Заголовок</string>
+    <string name="crime_details_label">Детали</string>
+    <string name="crime_solved_label">Раскрыто</string>
+    <string name="crime_suspect_text">Выбрать подозреваемого</string>
+    <string name="crime_report_text">Отправить отчёт</string>
+    <string name="crime_call_text">Позвонить подозреваемому</string>
+    <string name="crime_report">%1$s! Преступление обнаружено: %2$s. %3$s, и %4$s.</string>
+    <string name="crime_report_solved">дело раскрыто</string>
+    <string name="crime_report_unsolved">дело не раскрыто</string>
+    <string name="crime_report_no_suspect">подозреваемого нет</string>
+    <string name="crime_report_suspect">подозреваемый — %s</string>
+    <string name="crime_report_subject">Отчёт CriminalIntent</string>
+    <string name="send_report">Отправить отчёт через</string>
+    <string name="no_phone_number">У этого контакта нет номера телефона</string>
+    <string name="permission_denied">Нет доступа к контактам</string>
+    <string name="no_dialer_app">Приложение для звонков не найдено</string>
+</resources>
